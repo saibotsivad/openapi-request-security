@@ -1,6 +1,6 @@
 {
   "name": "openapi-request-security",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Secure a request using OpenAPI security definitions.",
   "main": "index.js",
   "type": "module",
