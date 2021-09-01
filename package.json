@@ -1,0 +1,27 @@
+{
+  "name": "openapi-request-security",
+  "version": "0.0.0",
+  "description": "Secure a request using OpenAPI security definitions.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saibotsivad/openapi-request-security.git"
+  },
+  "keywords": [
+    "openapi",
+    "security"
+  ],
+  "author": "saibotsivad",
+  "license": "VOL",
+  "bugs": {
+    "url": "https://github.com/saibotsivad/openapi-request-security/issues"
+  },
+  "homepage": "https://github.com/saibotsivad/openapi-request-security#readme",
+  "devDependencies": {
+    "uvu": "^0.5.1"
+  }
+}
